@@ -1,0 +1,52 @@
+.statistics{
+  width: 100%;
+  padding: 30px 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #FFEFBB;
+  .div{
+    width: 23%;
+    display: flex;
+    align-items: start;
+    gap: 15px;
+    img{
+      width: 40px;
+    }
+    h3{
+      color: #1D2026;
+      font-size: 30px;
+    }
+    .title1{
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      span{
+        color: #4E5566;
+      }
+    }
+  }
+}
+
+@media screen  and (max-width: 600px){
+  .statistics{
+    flex-wrap: wrap;
+    padding: 10px;
+    gap: 20px;
+    .div{
+      width: 45%;
+    }
+  }
+}
+
+@media (min-width: 600px)  and (max-width: 1000px){
+  .statistics{
+    flex-wrap: wrap;
+    padding: 10px;
+    gap: 20px;
+    justify-content: start;
+    .div{
+      width: 31%;
+    }
+  }
+}
