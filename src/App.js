@@ -7,6 +7,7 @@ import Computerimg from "./pages/computerimg/computerimg";
 import Question from "./pages/question/question";
 import Rules from "./pages/rules/rules";
 import Call from "./pages/call/call";
+import Teachers from "./pages/teachers/teachers";
 
 const App = () => {
     return (
@@ -18,6 +19,7 @@ const App = () => {
             <Question/>
             <Rules/>
             <Call/>
+            <Teachers/>
         </div>
     );
 };

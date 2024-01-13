@@ -2,25 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dbec1559-728e-41a5-bcdb-d69612c973f2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/footer/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/footer/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/teachers/teachers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/teachers/teachers.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/black/block.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/black/block.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/black/block.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/black/block.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/call/call.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/call/call.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/call/call.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/call/call.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/computerimg/compute.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/computerimg/compute.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/computerimg/computerimg.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/computerimg/computerimg.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/navbar/navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/navbar/navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/navbar/navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/navbar/navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/question/question.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/question/question.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/question/question.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/question/question.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/rules/rules.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/rules/rules.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/rules/rules.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/rules/rules.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/statistics/statistics.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/statistics/statistics.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/statistics/statistics.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/statistics/statistics.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +60,8 @@
       <workItem from="1705063884450" duration="158000" />
       <workItem from="1705076359317" duration="1389000" />
       <workItem from="1705125103292" duration="14478000" />
+      <workItem from="1705146203122" duration="50000" />
+      <workItem from="1705148848348" duration="1773000" />
     </task>
     <servers />
   </component>
@@ -83,6 +73,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="635" y="323" key="#ESLint/0.0.1536.824@0.0.1536.824" timestamp="1705063919809" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1705149298053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1705149298053" />
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1705063959117">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
