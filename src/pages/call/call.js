@@ -23,7 +23,7 @@ const Call = () => {
                     <li> <img src={Arrow} alt=""/> Duis ornare enim ullamcorper congue.</li>
                 </ul>
                 <div>
-                    <p>Email us, anytime anywhere.</p>
+                    <p>Email us, anytime anywhere</p>
 
                     <h4>help.eduguard@gamil.com</h4>
                 </div>
